@@ -14,7 +14,7 @@ Basketball shoes are very important because it protects players from possibly ge
 * Colour
   * The reason for picking these colour as the homepage: It was because basketball shoes come in all colours and so i chose gold and black to make sure the focus is on the shoes
 * Layout: The layout was based off websites like Footlocker
-* Font styles: I just used the most generic fonts such as Helvetica and Arial
+* Font styles: I used fonts such as Helvetica and Arial
 * Media: i had a lot inspiration from websites like Footlocker and Nike.
 
 ### What Browser work and how they find the website
