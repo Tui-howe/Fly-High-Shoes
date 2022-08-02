@@ -21,3 +21,8 @@ Basketball shoes are very important because it protects players from possibly ge
 * FireFox: Loaded the website smoothly, images were much clearer and brighter, the links were loading in pretty quickley
 * Google Chrome: loaded pretty smoothly, images were clear but had a small blur when first loaded in, the links loaded in pretty quickley.
 * Microsft Edge: Loaded in pretty smoothly, images were clear but had a quite a bit of blur surronding the actual images, the links also loaded pretty quickley
+
+### Is my website easy to use/navigate? Why do you believe this?
+* I believe that this website is very easy to use and navigate because they are located at the top of the page, and i find that it is easy to change the page to Maori because it is clearly set out so that everyone can access both languages.
+### Does the design match the product, Service or Event? How?
+* The design does match the product. Because shoes come in so many colours i decided to go with quite general colours like black but i wanted to add a little bit of colour so i chose gold. this meant the main focus was on the shoes
