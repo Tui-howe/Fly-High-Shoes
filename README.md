@@ -1,4 +1,4 @@
-# This is Basketball shoe Project
+# This is Basketball shoe/Singlet Website Project
 
 ### About my project
 My Project is about Basketball shoes and other gear needed to play basketball such as Jerseys (Basketbal term for Singlets) and more. I was always inspired by footlocker and had hoped to create my own shoe store one day and so it has been real fun designing my dream website. 
